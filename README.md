@@ -1,6 +1,8 @@
 # PyTorch версия DC-TTS
-Данный проект является учебным, в нем я пишу свою реализацию DC-TTS на PyTorch, <br> основываясь на реализации
-[Kyubyong Park](https://github.com/Kyubyong) ([ссылка на репозиторий](https://github.com/Kyubyong/dc_tts)).
+Данный проект является учебным, в нем я пишу свою реализацию DC-TTS на PyTorch, 
+<br> основываясь на TensorFlow реализации
+[Kyubyong Park](https://github.com/Kyubyong) ([ссылка на репозиторий](https://github.com/Kyubyong/dc_tts)).  
+[Ссылка на первоначальную статью](https://arxiv.org/abs/1710.08969)
 
 В качестве датасета я использую порядка 3 часов голосовых сообщений и двух часовой лекции, <br>
 записанных моим другом. 
